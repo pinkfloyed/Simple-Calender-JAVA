@@ -1,18 +1,10 @@
 {
   "version": 2,
   "artifactType": {
-    "type": "APK",
+    "type": "COMPATIBLE_SCREEN_MANIFEST",
     "kind": "Directory"
   },
   "applicationId": "com.example.simplecalender",
-  "variantName": "processDebugResources",
-  "elements": [
-    {
-      "type": "SINGLE",
-      "filters": [],
-      "versionCode": 1,
-      "versionName": "1.0",
-      "outputFile": "app-debug.apk"
-    }
-  ]
+  "variantName": "debug",
+  "elements": []
 }
