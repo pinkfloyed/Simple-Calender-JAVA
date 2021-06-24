@@ -1,0 +1,5 @@
+com/example/simplecalender/BuildConfig.java
+ com.example.simplecalender.BuildConfig
+com/example/simplecalender/MainActivity.java
+ com.example.simplecalender.MainActivity
+ com.example.simplecalender.MainActivity$1
